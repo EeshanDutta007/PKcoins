@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88c1366d-3a5e-473e-8b53-07e2bdf2a87c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PKcoins.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PKcoins.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qPEHeVYmOQ6zgOVwMEY5Y6gnGb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88c1366d-3a5e-473e-8b53-07e2bdf2a87c" name="Default Changelist" comment="" />
+      <created>1616972738400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616972738400</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1016" height="187" key="GridCell.Tab.0.bottom" timestamp="1617061629373">
+      <screen x="0" y="25" width="1440" height="787" />
+    </state>
+    <state width="1016" height="187" key="GridCell.Tab.0.bottom/0.25.1440.787@0.25.1440.787" timestamp="1617061629373" />
+    <state width="1016" height="187" key="GridCell.Tab.0.center" timestamp="1617061629372">
+      <screen x="0" y="25" width="1440" height="787" />
+    </state>
+    <state width="1016" height="187" key="GridCell.Tab.0.center/0.25.1440.787@0.25.1440.787" timestamp="1617061629372" />
+    <state width="1016" height="187" key="GridCell.Tab.0.left" timestamp="1617061629372">
+      <screen x="0" y="25" width="1440" height="787" />
+    </state>
+    <state width="1016" height="187" key="GridCell.Tab.0.left/0.25.1440.787@0.25.1440.787" timestamp="1617061629372" />
+    <state width="1016" height="187" key="GridCell.Tab.0.right" timestamp="1617061629372">
+      <screen x="0" y="25" width="1440" height="787" />
+    </state>
+    <state width="1016" height="187" key="GridCell.Tab.0.right/0.25.1440.787@0.25.1440.787" timestamp="1617061629372" />
+  </component>
+</project>
